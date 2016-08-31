@@ -4,4 +4,5 @@ int main()
 {
   cout<<"Hiii";
   cour<<"Welcome";
+  cout<<"Cummins College of Engineering";
 }
